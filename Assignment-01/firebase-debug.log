@@ -1,0 +1,97 @@
+[debug] [2024-10-07T22:04:27.384Z] ----------------------------------------------------------------------
+[debug] [2024-10-07T22:04:27.386Z] Command:       /usr/local/bin/firebase /Users/nancymacbook/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2024-10-07T22:04:27.386Z] CLI Version:   13.17.0
+[debug] [2024-10-07T22:04:27.386Z] Platform:      darwin
+[debug] [2024-10-07T22:04:27.387Z] Node Version:  v18.5.0
+[debug] [2024-10-07T22:04:27.393Z] Time:          Mon Oct 07 2024 23:04:27 GMT+0100 (Irish Standard Time)
+[debug] [2024-10-07T22:04:27.393Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-07T22:04:27.522Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-07T22:04:27.525Z] > authorizing via signed-in user (z.zhang6@universityofgalway.ie)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/nancymacbook/Desktop/WebProgApps/Assignment-01
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2024-10-07T22:06:03.656Z] ----------------------------------------------------------------------
+[debug] [2024-10-07T22:06:03.658Z] Command:       /usr/local/bin/firebase /Users/nancymacbook/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2024-10-07T22:06:03.658Z] CLI Version:   13.17.0
+[debug] [2024-10-07T22:06:03.658Z] Platform:      darwin
+[debug] [2024-10-07T22:06:03.658Z] Node Version:  v18.5.0
+[debug] [2024-10-07T22:06:03.659Z] Time:          Mon Oct 07 2024 23:06:03 GMT+0100 (Irish Standard Time)
+[debug] [2024-10-07T22:06:03.660Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-07T22:06:03.796Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-07T22:06:03.797Z] > authorizing via signed-in user (z.zhang6@universityofgalway.ie)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/nancymacbook/Desktop/WebProgApps/Assignment-01
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2024-10-07T22:20:53.969Z] ----------------------------------------------------------------------
+[debug] [2024-10-07T22:20:53.971Z] Command:       /usr/local/bin/firebase /Users/nancymacbook/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2024-10-07T22:20:53.971Z] CLI Version:   13.17.0
+[debug] [2024-10-07T22:20:53.971Z] Platform:      darwin
+[debug] [2024-10-07T22:20:53.971Z] Node Version:  v18.5.0
+[debug] [2024-10-07T22:20:53.972Z] Time:          Mon Oct 07 2024 23:20:53 GMT+0100 (Irish Standard Time)
+[debug] [2024-10-07T22:20:53.973Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-07T22:20:54.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-07T22:20:54.101Z] > authorizing via signed-in user (z.zhang6@universityofgalway.ie)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/nancymacbook/Desktop/WebProgApps/Assignment-01
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-10-07T22:21:10.892Z] Using project from CLI flag: assignment01-58af5
+[debug] [2024-10-07T22:21:10.897Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 [none]
+[debug] [2024-10-07T22:21:11.333Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 200
+[debug] [2024-10-07T22:21:11.337Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 {"projectId":"assignment01-58af5","projectNumber":"546127270390","displayName":"Assignment01","name":"projects/assignment01-58af5","resources":{"hostingSite":"assignment01-58af5"},"state":"ACTIVE","etag":"1_94ea0a9c-85e7-4771-bf35-452ae4af21ee"}
+[info] i  Using project assignment01-58af5 (Assignment01) 
+[info] 
+=== Hosting Setup
+[debug] [2024-10-07T22:21:11.356Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 [none]
+[debug] [2024-10-07T22:21:11.741Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 200
+[debug] [2024-10-07T22:21:11.742Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/assignment01-58af5 {"projectId":"assignment01-58af5","projectNumber":"546127270390","displayName":"Assignment01","name":"projects/assignment01-58af5","resources":{"hostingSite":"assignment01-58af5"},"state":"ACTIVE","etag":"1_94ea0a9c-85e7-4771-bf35-452ae4af21ee"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
